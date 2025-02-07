@@ -9,4 +9,4 @@ hence we refer to our members and laboratory as INTELLIGENTiSTs™ (just like "s
 Below is a snippet of our recent research activities in the TinyML community for mobile medical systems in the Internet of Things (IoT) domain.
 Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-![Explore featured projects](https://www.youtube.com/watch?v=RFhVcD9jR9E)
+[![TinyML Talks Sweden](https://img.youtube.com/vi/RFhVcD9jR9E/0.jpg)](https://www.youtube.com/watch?v=RFhVcD9jR9E)
